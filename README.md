@@ -1,8 +1,6 @@
-
-## Hi Coders! 💻 👋
+# 💻  Hi Coders! 👋
 
 <section align="center">
-  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="a person coding" width="400">
   
   <div class="badges">
@@ -18,9 +16,7 @@
   </div>
 </section>
 
----
-
-### 😄 About Me: 
+## 😄 About Me: 
 
 I'm a full-stack developer from Argentina 🇦🇷 . I love learning new technologies and improving my code. I've worked on different projects over the years. In those projects, I've used the following technologies:
   
@@ -37,7 +33,7 @@ I'm a full-stack developer from Argentina 🇦🇷 . I love learning new technol
 </section>
 
 
-### 😍 Hobbies:
+## 😍 Hobbies:
 
   - Coding 👨‍💻
   - Reading books 📚
@@ -45,6 +41,6 @@ I'm a full-stack developer from Argentina 🇦🇷 . I love learning new technol
   - Playing to music 🎸 🎹
   - Tea 🍵
 
-### ✨ Improving Process:
+## ✨ Improving Process:
 
 I invite you to see the code I made to improve myself and share it with the community. Any piece of advice is welcome 👍 .  
