@@ -1,5 +1,5 @@
 
-## :computer: Hi Coders!
+## Hi Coders! 💻 👋
 
 <section align="center">
   
@@ -20,7 +20,7 @@
 
 ---
 
-### 🤓 About Me:
+### 😄 About Me: 
 
 I'm a full-stack developer from Argentina 🇦🇷 . I love learning new technologies and improving my code. I've worked on different projects over the years. In those projects, I've used the following technologies:
   
@@ -41,10 +41,10 @@ I'm a full-stack developer from Argentina 🇦🇷 . I love learning new technol
 
   - Coding 👨‍💻
   - Reading books 📚
-  - Chess ♟️ (PD: I invite you to play some games on lichess)
+  - Chess ♟️
   - Playing to music 🎸 🎹
   - Tea 🍵
 
-### ✨ Invitation:
+### ✨ Improving Process:
 
-I invite you to see the code I made to improve myself and share it with the community. Any piece of advice is welcome 🤗.
+I invite you to see the code I made to improve myself and share it with the community. Any piece of advice is welcome 👍 .  
