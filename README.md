@@ -13,7 +13,7 @@
       <img src="https://img.shields.io/badge/codewars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="codewars account">
     </a>
     <a href="https://lichess.org/shadowteam33" target="_blank">
-      <img src="https://img.shields.io/badge/lichess-white?logo=lichess&logoColor=black&style=for-the-badge" alt="lichess account">
+      <img src="https://img.shields.io/badge/lichess-black?logo=lichess&logoColor=white&style=for-the-badge" alt="lichess account">
     </a>
   </div>
 </section>
