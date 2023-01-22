@@ -4,12 +4,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="a person coding" width="400">
   
   <div class="badges">
-    <a href="https://www.hackerrank.com/shadowteam33" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-black?logo=hackerrank&logoColor=068932&style=for-the-badge" alt="hacherrank account">
-    </a>
-     <a href="https://www.codewars.com/users/nicodvarg" target="_blank">
-      <img src="https://img.shields.io/badge/codewars-black?logo=codewars&logoColor=ff4d4d&style=for-the-badge" alt="codewars account">
-    </a>
     <a href="https://lichess.org/shadowteam33" target="_blank">
       <img src="https://img.shields.io/badge/lichess-black?logo=lichess&logoColor=white&style=for-the-badge" alt="lichess account">
     </a>
